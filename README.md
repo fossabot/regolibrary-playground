@@ -1,4 +1,6 @@
 # React POC of [Kubescape Regolibrary](https://github.com/kubescape/regolibrary) playground
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkubescape%2Fregolibrary-playground.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkubescape%2Fregolibrary-playground?ref=badge_shield)
+
 <p align="center">
 <a href="https://kubescape.github.io/regolibrary-playground/">Playground</a>
 <br/><br/>
@@ -69,3 +71,7 @@ For more information, see [this](https://create-react-app.dev/docs/deployment/#g
 - [ ] Add option to export the scan results to json?
 - [ ] Change the language selector label to "Format"?
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkubescape%2Fregolibrary-playground.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkubescape%2Fregolibrary-playground?ref=badge_large)
